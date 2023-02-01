@@ -1,8 +1,7 @@
 > Abra esta pagina en [https://adrianunez.github.io/microbit-adria-nunez/](https://adrianunez.github.io/microbit-adria-nunez/)
 
-## Descripcion del proyecto
- Este proyecto consiste en una serie matematica la cual es **2x^(2)+3 x-2** y muestra una serie de numeros,
- que nosotros como usuario definimos haciendo click en la letra A,tantas veces como queramos mostrar la serie.
+# Descripcion del proyecto :speech_balloon:
+### Este proyecto consiste en una serie matematica la cual es **2x^(2)+3 x-2** :exclamation: y muestra una serie de numeros, que nosotros como usuario definimos haciendo click en la letra "A", tantas veces como queramos mostrar la serie y una vez elegidos, al hacer click en la letra "B" inicia nuestro proyecto.:neckbeard:
 
 
 ## Usar como extensión
