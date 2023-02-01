@@ -1,9 +1,11 @@
-
 > Abra esta pagina en [https://adrianunez.github.io/microbit-adria-nunez/](https://adrianunez.github.io/microbit-adria-nunez/)
 
-## Usar como extensión
+## Descripcion del proyecto
+* Este proyecto consiste en una serie matematica la cual es **2x^(2)+3 x-2** y muestra una serie de numeros,
+* que nosotros como usuario definimos haciendo click en la letra A,tantas veces como queramos mostrar la serie.
 
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
+
+## Usar como extensión
 
 * abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * haga clic en **New Project**
